@@ -1,0 +1,1 @@
+docker build -t shi0090/centos-7.9:python-3.6.8 .

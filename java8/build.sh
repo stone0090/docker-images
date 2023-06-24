@@ -1,1 +1,0 @@
-docker build -t shi0090/centos7.9:java-8u301 .
