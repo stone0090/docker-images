@@ -1,0 +1,1 @@
+docker build -t shi0090/centos-7.9:python3.6.8-go1.18-debugger .

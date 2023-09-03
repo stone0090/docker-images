@@ -1,6 +1,5 @@
 FROM centos:7.9.2009
 
-#安装jer
 COPY go1.18.linux-amd64.tar.gz /tmp/go1.18.linux-amd64.tar.gz
 RUN tar -zxvf /tmp/go1.18.linux-amd64.tar.gz -C /usr/local \
     && rm -rf /tmp/go1.18.linux-amd64.tar.gz \
